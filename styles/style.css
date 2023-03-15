@@ -1,0 +1,48 @@
+html {
+    width: 1440px;
+    margin-top: auto;
+
+}
+body {
+    background: hsl(257, 40%, 49%);
+    text-decoration: none;
+    color: #FFF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border: 1px solid hsl(300, 69%, 71%);
+}
+.mockup { 
+    width: 50%;
+    float: left;
+    border: 1px solid hsl(300, 69%, 71%);
+}
+.main { 
+    width: 50%;
+    float: left;
+    border: 1px solid hsl(300, 69%, 71%);
+}
+.footer { 
+    border: 1px solid hsl(300, 69%, 71%);
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    background: #FFF;
+    color:hsl(300, 69%, 71%);
+}
+button:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: #FFF;
+}
